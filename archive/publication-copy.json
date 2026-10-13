@@ -1,0 +1,16 @@
+{
+  "published_on": "2026-10-13",
+  "repository": "daranless/shuangxu-gpt-pet",
+  "source": "GptPet local archive",
+  "changes": [
+    "Removed Python bytecode caches",
+    "Converted personal absolute paths to repository-relative paths",
+    "Replaced private chat transcript with public creation summary",
+    "Removed account/session identifiers from JSON reports",
+    "Made preview rendering helper use bundled tool path and ffmpeg from PATH",
+    "Rebuilt production ZIP and publication manifests"
+  ],
+  "source_artwork_unchanged": true,
+  "text_files_normalized": 43,
+  "archive_distribution": "Production ZIP is preserved as four checksum-verified binary parts due to connector IPC size limits; expanded production sources remain complete."
+}

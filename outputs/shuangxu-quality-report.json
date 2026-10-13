@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "atlas": "work/shuangxu/final/spritesheet-extended.png",
+  "encoded_bytes": 2254511,
+  "sha256": "618aa7acd7e6a35b530a77902471d7f1d6204e91434b7f790aaa3437e5fe6a7c",
+  "jump": {
+    "idle_baseline": 204,
+    "jump_baselines": [
+      203,
+      187,
+      162,
+      188,
+      203
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.0,
+    "look_centers_x": [
+      96.5,
+      96.5,
+      96.5,
+      96.5,
+      96.5,
+      96.0,
+      95.5,
+      95.5,
+      96.0,
+      96.5,
+      96.5,
+      96.5,
+      97.0,
+      96.5,
+      96.5,
+      96.5
+    ],
+    "look_widths": [
+      95,
+      95,
+      95,
+      95,
+      93,
+      94,
+      93,
+      93,
+      88,
+      85,
+      85,
+      85,
+      84,
+      85,
+      85,
+      85
+    ],
+    "maximum_center_drift_pixels": 2.0,
+    "maximum_width_ratio": 1.130952380952381
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "337.5->000 diff is a local outlier (2085 pixels vs neighbor average 1012)"
+  ]
+}

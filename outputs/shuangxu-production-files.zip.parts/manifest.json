@@ -1,0 +1,27 @@
+{
+  "archive": "shuangxu-production-files.zip",
+  "bytes": 70368291,
+  "sha256": "93c6681609d6b9a2f2bfe3883201755805dab8b49f692f725ab19e023f84dd8f",
+  "parts": [
+    {
+      "file": "part001",
+      "bytes": 20971520,
+      "sha256": "cfd88a52594bd672c682568563ae9c34f0666442cd187772214e145e6f9f54f2"
+    },
+    {
+      "file": "part002",
+      "bytes": 20971520,
+      "sha256": "39b42f135dca9434ae579567f01575a34cbfe4e9076d83cb34d25b40cd2acd3b"
+    },
+    {
+      "file": "part003",
+      "bytes": 20971520,
+      "sha256": "43b2cf3f62d0e051dc7bd4aaf492cb70ce066e27a1213bdeaca5a7dd210112ba"
+    },
+    {
+      "file": "part004",
+      "bytes": 7453731,
+      "sha256": "8d67246d7536a7e3123091becf9a3e082ace8660f82c7665dbe1169948b01c1e"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "reason": "Both faces remain almost frontal; pupil and nose offsets are too small at pet size to assign a reliable screen direction.",
+      "A": "ambiguous",
+      "B": "ambiguous"
+    },
+    {
+      "pair": "horizontal-2",
+      "reason": "A has pupils and the nose tip displaced toward the left cheek; B shows the opposite offset toward the right cheek.",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "horizontal-3",
+      "reason": "A presents the nose and visible eye toward the right face edge; B has the nose and eye emphasis toward the left face edge.",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-4",
+      "reason": "A nose tip and chin project to screen-right with the far eye narrowed; B nose tip and chin project to screen-left.",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-5",
+      "reason": "A shows a rightward nose profile and the rightward eye beneath the fringe; B shows the mirrored leftward nose and eye position.",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-6",
+      "reason": "Despite lowered eyelids, A nose and chin lie toward the right cheek edge; B nose and chin lie toward the left cheek edge.",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-7",
+      "reason": "A lowered face retains a nose tip pointing right; B lowered face retains a nose tip pointing left, with the opposite cheek more exposed.",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "vertical-1",
+      "reason": "A eyelids are lowered under the fringe and chin tucks toward the collar; B has open eyes high on an exposed face and a raised chin.",
+      "A": "down",
+      "B": "up"
+    },
+    {
+      "pair": "vertical-2",
+      "reason": "A open eyes and exposed lower face accompany a lifted chin; B eyes are narrowed beneath the fringe and the chin is tucked.",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "vertical-3",
+      "reason": "A eyes remain open above an exposed nose and chin; B forehead fringe covers more of the eyes and the nose points downward toward the collar.",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "vertical-4",
+      "reason": "A face is lifted with the eyes and lower cheek visible; B eyes sit under lowered bangs and the chin approaches the collar.",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "vertical-5",
+      "reason": "A eyelids and nose angle down with a tucked chin; B open eyes and lifted chin expose the face above the collar.",
+      "A": "down",
+      "B": "up"
+    },
+    {
+      "pair": "vertical-6",
+      "reason": "A gaze is lowered beneath heavy fringe with nose and chin angled down; B eyes are open higher on the face with a more exposed chin.",
+      "A": "down",
+      "B": "up"
+    },
+    {
+      "pair": "vertical-7",
+      "reason": "A nose and eyelids angle down beneath the fringe; B remains nearly frontal and lacks a sufficiently clear chin lift or upward pupil displacement at pet size.",
+      "A": "down",
+      "B": "ambiguous"
+    }
+  ]
+}

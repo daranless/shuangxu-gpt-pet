@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+archive/validation-local.json
+outputs/shuangxu-production-files.zip
+outputs/shuangxu-production-files.zip.partial

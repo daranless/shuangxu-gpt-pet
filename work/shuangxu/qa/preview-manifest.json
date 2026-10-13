@@ -1,0 +1,24 @@
+{
+  "atlas": "work/shuangxu/final/spritesheet-extended.png",
+  "source": "Exact final encoded atlas",
+  "outputs": [
+    "shuangxu-all-states.gif",
+    "shuangxu-all-states.mp4",
+    "shuangxu-base.png",
+    "shuangxu-brief.md",
+    "shuangxu-failed.gif",
+    "shuangxu-idle-draft.gif",
+    "shuangxu-idle-jump-idle.gif",
+    "shuangxu-idle.gif",
+    "shuangxu-jump-draft.gif",
+    "shuangxu-jumping.gif",
+    "shuangxu-look-loop.gif",
+    "shuangxu-motion-stills.png",
+    "shuangxu-review.gif",
+    "shuangxu-running-left.gif",
+    "shuangxu-running-right.gif",
+    "shuangxu-running.gif",
+    "shuangxu-waiting.gif",
+    "shuangxu-waving.gif"
+  ]
+}

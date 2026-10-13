@@ -1,0 +1,12 @@
+{
+  "ratio": 0.8682634730538922,
+  "source_size": [
+    2172,
+    724
+  ],
+  "output_size": [
+    1886,
+    629
+  ],
+  "reason": "Uniform complete-strip resize corrects generated source scale; all eight poses retain one transform and source relative registration"
+}

@@ -1,0 +1,114 @@
+{
+  "target_height": 146,
+  "baseline": 203,
+  "rows": [
+    {
+      "state": "idle",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "running-right",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "running-left",
+      "scale": 0.7525773195876289,
+      "source_bounds": [
+        7,
+        201
+      ],
+      "translation": [
+        24,
+        52
+      ]
+    },
+    {
+      "state": "waving",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "jumping",
+      "scale": 0.85,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        14,
+        31
+      ]
+    },
+    {
+      "state": "failed",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "waiting",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "running",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    },
+    {
+      "state": "review",
+      "scale": 0.7448979591836735,
+      "source_bounds": [
+        6,
+        202
+      ],
+      "translation": [
+        24,
+        53
+      ]
+    }
+  ]
+}

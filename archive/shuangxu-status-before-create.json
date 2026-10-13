@@ -1,0 +1,13 @@
+{
+  "name": "霜序",
+  "description": "白发浅紫龙娘研究搭档，陪伴机器人控制、代码调试与论文写作。",
+  "sprite_version": 2,
+  "sprite_file": "shuangxu-spritesheet.png",
+  "sha256": "618aa7acd7e6a35b530a77902471d7f1d6204e91434b7f790aaa3437e5fe6a7c",
+  "structural_validation": true,
+  "quality_gate": true,
+  "pets_mcp_preflight_valid": true,
+  "pet_created": false,
+  "pet_selected": false,
+  "scope": "Historical production snapshot; application activation is account-specific and not distributed by this repository."
+}

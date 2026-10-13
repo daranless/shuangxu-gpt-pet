@@ -1,0 +1,118 @@
+{
+  "review_method": "Parent inspected labeled neutral-plus-sixteen sheet at native cell scale and face focus views; feet and lower body remain anchored throughout.",
+  "boundary_review": "After uniform source-row normalization, 157.5 to 180 and 337.5 to 000 preserve scale, baseline and center. The wrap to 000 has a metric image-difference warning, attributable to head pitch and minor wing/hair contour differences; no visible registration snap, reversal, clipping or identity break.",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin lifted and neck exposed; pupils and nose orient toward upper edge while torso remains frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right with subtle horizontal component",
+      "verdict": "warning",
+      "evidence": "Raised chin with high pupil placement retains up axis; nose and pupil pair shift slightly to viewer right. Blind reviewers found horizontal component ambiguous in isolation; labeled comparison to000 and045 confirms a coherent rightward step."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Head yaws right with raised chin; nose and irises direct toward upper-right while feet remain frontal."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Stronger right yaw places nose to right of head center; chin remains lifted and eyes aim above horizontal."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose tip and pupils move to viewer-right side with level neck pitch; anchored lower body is unchanged."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Right-facing nose and irises remain; chin lowers and upper eyelids descend relative to right cardinal."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head bows and eyelids narrow, pupils direct below-right; nose remains clearly on right side of head center."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Chin strongly lowered with lower pupil orientation; right yaw remains readable but stronger than ideal near down anchor. No backtracking or body movement."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Frontal chin tucked toward collar, upper eyelids strongly lowered and pupils oriented toward bottom; no side yaw."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Strong downward bow retained; nose and visible pupil alignment move subtly to viewer-left."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose lies left of head center; bowed chin and narrowed upper eyelids retain downward attention."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left with subtle vertical component",
+      "verdict": "warning",
+      "evidence": "Face and nose turn left; chin is slightly lower and upper eyelids more lowered than level-left cardinal. Down axis is subtle but ordered transition from225 through247.5 to270 is coherent."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Level head yaw left places nose and pupils on viewer-left side; face stays visible and lower body anchored."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left with subtle vertical component",
+      "verdict": "warning",
+      "evidence": "Nose remains left of center; chin begins to lift and pupils sit higher than left cardinal. Blind vertical classification was ambiguous; labeled comparison to270 and315 confirms gradual upward movement without reversal."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Raised chin and high irises give up axis; mild left yaw and nose offset preserve left axis."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left with slight horizontal component",
+      "verdict": "warning",
+      "evidence": "Head pitches up and neck lengthens; nose and iris alignment retain small viewer-left offset before up anchor. Hair and wing contour differ slightly at wrap, but scale and feet do not jump."
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "work/shuangxu/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9876,
+          "bbox": [
+            46,
+            56,
+            144,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9784,
+          "bbox": [
+            47,
+            56,
+            143,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9937,
+          "bbox": [
+            48,
+            55,
+            142,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 73
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9936,
+          "bbox": [
+            46,
+            56,
+            144,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9765,
+          "bbox": [
+            47,
+            56,
+            143,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9794,
+          "bbox": [
+            48,
+            56,
+            143,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 65
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9728,
+          "bbox": [
+            47,
+            56,
+            143,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 99
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9128,
+          "bbox": [
+            48,
+            55,
+            142,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9641,
+          "bbox": [
+            46,
+            56,
+            145,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9074,
+          "bbox": [
+            48,
+            56,
+            142,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9744,
+          "bbox": [
+            47,
+            56,
+            144,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 71
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8986,
+          "bbox": [
+            49,
+            55,
+            142,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 79
+        },
+        {
+          "index": 6,
+          "file": "work/shuangxu/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9573,
+          "bbox": [
+            46,
+            56,
+            144,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 7,
+          "file": "work/shuangxu/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9098,
+          "bbox": [
+            48,
+            55,
+            143,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10224,
+          "bbox": [
+            44,
+            55,
+            147,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 71
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9872,
+          "bbox": [
+            43,
+            55,
+            148,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10282,
+          "bbox": [
+            43,
+            55,
+            149,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9549,
+          "bbox": [
+            46,
+            55,
+            146,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10284,
+          "bbox": [
+            44,
+            55,
+            147,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9390,
+          "bbox": [
+            44,
+            55,
+            146,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 6,
+          "file": "work/shuangxu/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10418,
+          "bbox": [
+            43,
+            55,
+            149,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 7,
+          "file": "work/shuangxu/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9028,
+          "bbox": [
+            49,
+            55,
+            143,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10511,
+          "bbox": [
+            41,
+            55,
+            149,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10522,
+          "bbox": [
+            41,
+            55,
+            149,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10519,
+          "bbox": [
+            41,
+            55,
+            149,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 10
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10499,
+          "bbox": [
+            41,
+            55,
+            149,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9328,
+          "bbox": [
+            39,
+            79,
+            152,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8558,
+          "bbox": [
+            38,
+            61,
+            153,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8852,
+          "bbox": [
+            38,
+            34,
+            153,
+            164
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8482,
+          "bbox": [
+            40,
+            61,
+            151,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8957,
+          "bbox": [
+            41,
+            79,
+            150,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9353,
+          "bbox": [
+            51,
+            59,
+            140,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9011,
+          "bbox": [
+            52,
+            59,
+            138,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8880,
+          "bbox": [
+            53,
+            63,
+            138,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7700,
+          "bbox": [
+            53,
+            80,
+            137,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7930,
+          "bbox": [
+            51,
+            79,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8831,
+          "bbox": [
+            52,
+            63,
+            138,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 6,
+          "file": "work/shuangxu/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8771,
+          "bbox": [
+            53,
+            62,
+            137,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 7,
+          "file": "work/shuangxu/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9443,
+          "bbox": [
+            52,
+            55,
+            139,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9530,
+          "bbox": [
+            49,
+            57,
+            142,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9378,
+          "bbox": [
+            51,
+            57,
+            140,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9445,
+          "bbox": [
+            51,
+            55,
+            140,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9088,
+          "bbox": [
+            52,
+            56,
+            139,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9180,
+          "bbox": [
+            53,
+            57,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9244,
+          "bbox": [
+            51,
+            57,
+            140,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9618,
+          "bbox": [
+            50,
+            56,
+            140,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9376,
+          "bbox": [
+            52,
+            55,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9339,
+          "bbox": [
+            52,
+            56,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9359,
+          "bbox": [
+            52,
+            55,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9365,
+          "bbox": [
+            52,
+            56,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9215,
+          "bbox": [
+            53,
+            56,
+            138,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work/shuangxu/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9582,
+          "bbox": [
+            51,
+            55,
+            140,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 1,
+          "file": "work/shuangxu/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9489,
+          "bbox": [
+            52,
+            55,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 2,
+          "file": "work/shuangxu/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9518,
+          "bbox": [
+            52,
+            55,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 3,
+          "file": "work/shuangxu/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9544,
+          "bbox": [
+            52,
+            55,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 4,
+          "file": "work/shuangxu/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9327,
+          "bbox": [
+            52,
+            55,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 5,
+          "file": "work/shuangxu/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9530,
+          "bbox": [
+            52,
+            55,
+            139,
+            206
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        }
+      ]
+    }
+  ]
+}

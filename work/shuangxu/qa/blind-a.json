@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both faces read nearly frontal at this size: both eyes remain similarly exposed and neither nose nor chin forms a clear lateral profile; subtle pupil differences are insufficient for a reliable left/right call."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose/chin and visible facial oval shift left beneath the hair, with the right side more covered; B shows the opposite rightward facial shift and gaze."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose and chin sit toward the right edge of the exposed face and its eyes aim right; B's exposed face and eye line shift toward the left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A presents a rightward nose/chin outline with hair obscuring more of the left facial side; B presents a leftward facial outline and left-directed visible eye."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its visible eye, nose tip, and chin displaced right under the fringe; B's eye and pointed facial outline are displaced left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Although both heads dip, A's small visible face and nose point right of the fringe center, while B's visible eye/nose and chin point left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both faces are lowered; A's exposed cheek and nose/chin sit on the right of the bangs, and B's exposed face sits on the left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A's fringe covers most of the eyes and the chin tucks toward the chest; B exposes both eyes and lifts the face, with the eyes aimed above the facial midline."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A shows open upward-directed eyes and a raised chin; B's lowered eyelids are hidden beneath the bangs and its chin is tucked."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visible eyes aim upward with the chin lifted, while B's forehead and fringe dominate the face and its eyes/chin sink toward the chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visible eye looks above the nose with an exposed, raised chin; B's visible eye is lowered beneath the fringe and the nose/chin point toward the chest."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyelids lie low under the fringe and its chin tucks inward; B exposes both eyes and shows the face tilted upward with a higher gaze."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes are obscured beneath a lowered fringe and its chin approaches the collar; B exposes its eyes and lifts its gaze and chin."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A's eyelids and small chin sit low beneath the fringe, giving a downward gaze; B reads as a mild sideways/front-facing gaze, without a sufficiently clear raised-chin or upward-eye cue at this size."
+    }
+  ]
+}

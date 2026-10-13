@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both heads read nearly front-on at pet size; two eyes remain similarly exposed and the nose/mouth stay near the face center. A reliable left/right shift is not visible."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its nose and mouth displaced toward the left side of the hair-framed face; B exposes a cheek and places the nose/mouth toward screen-right, with the rightward face contour more prominent."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose/mouth and visible cheek extend to screen-right of the forehead center. B facial features are shifted to the left beneath the bangs and the opposite cheek is more exposed."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and mouth sit toward the right edge of the face while the left side is covered by bangs. B shows its eye and nose toward the left side, with the right temple ornament behind the turned face."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A visible eye and nose cluster on the screen-right edge of the face under the bangs. B visible eye and nose cluster toward screen-left, with its cheek outline projecting left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered eyelids, A nose/mouth and small cheek project to screen-right of the hair mass. B nose/mouth and cheek project to screen-left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both faces are lowered, but A chin and mouth are displaced right beneath the bangs while B chin and mouth are displaced left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A bangs cover much of the eye region and the lowered chin points toward the collar. B exposes both eyes and the lower face with its chin raised away from the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A has open, exposed eyes and a lifted lower face. B eye region is hidden beneath descending bangs and its nose/chin angle points toward the chest."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes the eyes and lower facial oval with a lifted chin. B has a lowered forehead, heavily overhanging bangs, and the chin tucked toward the collar."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A presents both eyes and a lifted face with visible chin below the mouth. B eyes sit under lowered bangs and the nose/chin descend toward the upper chest."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A bangs obscure the eyes and its chin is tucked down close to the collar. B exposes both eyes and has a raised, fully visible lower facial oval."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A eye line and nose are lowered under the fringe, with the chin tucked inward. B eyes are exposed and the nose/chin are raised relative to the shoulders."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A eye line is low beneath the bangs and its mouth/chin point down toward the collar. B exposes both eyes with a higher gaze and a more upright, lifted lower face."
+    }
+  ]
+}

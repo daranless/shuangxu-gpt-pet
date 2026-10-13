@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "stateButtons": 9,
+  "directions": 16,
+  "localResources": 7,
+  "checks": [
+    "script syntax",
+    "state selection",
+    "direction selection",
+    "play/pause",
+    "local resource paths"
+  ]
+}
